@@ -45,4 +45,4 @@ Dhurkij Pundit University
 
 **License:**
 
-[A]
+[Apache-2.0 license](https://github.com/banyapon/readyplayerme-gemini-multimodal-api/tree/main#Apache-2.0-1-ov-file)
